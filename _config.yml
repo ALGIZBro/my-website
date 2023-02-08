@@ -1,1 +1,3 @@
-theme: minima
+# Boild settings
+markdown: kramdown
+theme: midnight
